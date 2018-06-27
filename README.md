@@ -10,7 +10,7 @@ First you need to run the server.
   
   Then you can run the JAR file:
     
-      java -jar target/gs-rest-service-0.1.0.jar
+      java -jar target/gs-consuming-rest-0.1.0.jar
      
 After that you can access through the browser locally:
 
