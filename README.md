@@ -3,6 +3,7 @@ Function: returns a JSON containing the balance and currency accordingly to a gi
 
 How it works using Linux:
 First you need to run the server.
+
     Build the JAR file with 
       ./mvnw clean package
   
