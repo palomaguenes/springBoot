@@ -11,7 +11,7 @@ public class IndexController implements ErrorController{
 
 	    @RequestMapping(value = PATH)
 	    public String error() {
-	        return "Please, provide 'id' and 'username' int the url.";
+	        return "Please, provide an 'id' and 'username' in the url as 'localhost:8080/balance?id=10&username=Paf'.";
 	    }
 
 	    @Override
